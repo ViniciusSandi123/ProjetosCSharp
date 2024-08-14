@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.exe
+C:\Users\vinic\source\repos\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.deps.json
+C:\Users\vinic\source\repos\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.runtimeconfig.json
+C:\Users\vinic\source\repos\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.dll
+C:\Users\vinic\source\repos\JogoDaVelha\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.pdb
+C:\Users\vinic\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.AssemblyInfo.cs
+C:\Users\vinic\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.dll
+C:\Users\vinic\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\refint\JogoDaVelha.dll
+C:\Users\vinic\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.pdb
+C:\Users\vinic\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.genruntimeconfig.cache
+C:\Users\vinic\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\net8.0\ref\JogoDaVelha.dll
